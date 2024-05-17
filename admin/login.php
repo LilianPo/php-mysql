@@ -12,7 +12,7 @@ if (empty($_GET['kasutaja']) && !empty($_GET['parool'])) {
 }
 }
 
-$_SESSION['login']="1";
+//$_SESSION['login']="1";
 
 ?>
 

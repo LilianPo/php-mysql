@@ -8,6 +8,9 @@ if (!isset($_SESSION['login'])) {
     header("Location: login.php");
     die("Vale koht");
 }
+else{
+    
+}
 
 ?>
 <h1>ERITI SALAJANE</h1>
